@@ -7,7 +7,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 搜集/汇总有关 **旅行时间估计 (Travel Time Estimation, TTE)** 和 **预计到达时间 (Estimated Time of Arrival, ETA)** 的相关【学术界】和【工业界（滴滴、百度、高德、谷歌地图等等）】的最新研究成果与进展。
 
 - 论文大多来自顶刊顶会或其它Q1主流期刊，欢迎小伙伴们补充+交流~
-- Updating 更新中~
+- **Updating 持续更新中~**
 
 ## What is TTE or ETA?
 - The popularity of location technology has produced massive trajectory data of moving vehicles, such as the driving trajectories of taxis, buses, private cars, and other automobiles. ***Travel time estimation (TTE)***, also known as the ***Estimated Time of Arrival (ETA)***, predicts the actual travel duration time of the driving route and assists the driver in planning the route and avoiding congested road segments. This is of great significance toward traffic management, carpooling, vehicle dispatching, and other location-based service (LBS) applications.
@@ -124,10 +124,27 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [DeepTTE] When will you arrive? Estimating Travel Time Based on Deep Neural Networks 
 
 
+# OD-based方向的期刊+顶会论文
 
+## TKDE 2023
+* [MWSL-TTE] Multi-Task Weakly Supervised Learning for Origin-Destination Travel Time Estimation [[paper](https://doi.org/10.1109/TKDE.2023.3236060)]
 
+## JAT 2022
+* [JSTC] JSTC: Travel Time Prediction With a Joint Spatial-Temporal Correlation Mechanism [[paper](https://doi.org/10.1155/2022/1213221)]
 
+## ICASSP 2021
+* [FMA-ETA] FMA-ETA: Estimating Travel Time Entirely Based on FFN with Attention [[paper](https://doi.org/10.1109/ICASSP39728.2021.9414054)]
 
+## IJCNN 2021
+* [ZED-TTE] ZED-TTE: Zone Embedding and Deep neural network based Travel Time Estimation Approach [[paper](https://doi.org/10.1109/IJCNN52387.2021.9533456)]
 
+## SIGMOD 2020
+* [DeepOD] Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter [[paper](https://doi.org/10.1145/3318464.3389771)]
+
+## ACM-TIST 2019
+* [TEMP] A Simple Baseline for Travel Time Estimation using Large-scale Trip Data [[paper](https://doi.org/10.1145/3293317)]
+
+## KDD 2018
+* [MURAT] Multi-task Representation Learning for Travel Time Estimation [[paper](https://doi.org/10.1145/3219819.3220033)]
 
 
