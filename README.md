@@ -3,7 +3,6 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![Visits Badge](https://badges.pufler.dev/visits/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA)](https://badges.pufler.dev/visits/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA)
 
 A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and Estimated Time of Arrival (ETA).
 
