@@ -51,18 +51,77 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 ## ESWA 2023
 * [HLGST] HLGST: Hybrid Local–global Spatio-temporal Model for Travel Time Estimation Using Siamese Graph Convolutional With Triplet Networks [[paper](https://doi.org/10.1016/j.eswa.2023.120502)]
 
+## ICDE 2023
+* [START] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)]
 
+## KDD 2023
+* [ProbTTE] Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi [[paper](https://doi.org/10.1145/3580305.3599925)]
 
+## CIKM 2023
+* [GBTTE] GBTTE: Graph Attention Network Based Bus Travel Time Estimation [[paper](https://doi.org/10.1145/3583780.3614730)]
 
+## IJCNN 2023
+* [SGED-Net] SGED-Net: A Self-organizing Graph Embedding Deep Network for Travel Time Estimation [[paper](https://doi.org/10.1109/IJCNN54540.2023.10191790)]
+* [TCPSG] Triplet-contrastive Periodical Siamese Graph Networks for Travel Time Estimation [[paper](https://doi.org/10.1109/IJCNN54540.2023.10191875)]
 
+## TITS 2022
+* [Du-Bus] Du-Bus: A Realtime Bus Waiting Time Estimation System Based On Multi-Source Data [[paper](https://doi.org/10.1109/TITS.2022.3210170)]
+* [CoDriver-ETA] CoDriver ETA: Combine Driver Information in Estimated Time of Arrival by Driving Style Learning Auxiliary Task [[paper](https://doi.org/10.1109/TITS.2020.3040386)]
+* [CatETA] CatETA: A Categorical Approximate Approach for Estimating Time of Arrival [[paper](https://doi.org/10.1109/TITS.2022.3207894)]
+* [CTTUE] Cross-Area Travel Time Uncertainty Estimation From Trajectory Data: A Federated Learning Approach [[paper](https://doi.org/10.1109/TITS.2022.3203457)]
+* [CTTE] CTTE: Customized Travel Time Estimation via Mobile Crowdsensing [[paper](https://doi.org/10.1109/TITS.2022.3160468)]
+* [MetaTTE] Fine-Grained Trajectory-Based Travel Time Estimation for Multi-City Scenarios Based on Deep Meta-Learning [[paper](https://doi.org/10.1109/TITS.2022.3145382)]
+* [STTE] Multi-Semantic Path Representation Learning for Travel Time Estimation [[paper](https://doi.org/10.1109/TITS.2021.3119887)]
 
+## TKDE 2022
+* [TTPNet] TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding [[paper](https://doi.org/10.1109/TKDE.2020.3038259)]
 
+## FGCS 2022
+* [STGNN-TTE] STGNN-TTE: Travel Time Estimation via Spatial-Temporal Graph Neural Network [[paper](https://doi.org/10.1016/j.future.2021.07.012)]
 
+## KDD 2022
+* [HierETA] Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival [[paper](https://doi.org/10.1145/3534678.3539051)]
 
+## IEEE letter 2021
+* [GraphTTE] GraphTTE: Travel Time Estimation Based on Attention-Spatiotemporal Graphs [[paper](https://doi.org/10.1109/LSP.2020.3048849)]
 
+## CIKM 2021
+* [ETA-GNN] ETA Prediction with Graph Neural Networks in Google Maps [[paper](https://doi.org/10.1145/3459637.3481916)]
 
+## KDD 2021
+* [SSML] SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps [[paper](https://doi.org/10.1145/3447548.3467060)]
 
+## INS 2020
+* [TP-SCF] Learning Heterogeneous Traffic Patterns for Travel Time Prediction of Bus Journeys [[paper](https://doi.org/10.1016/j.ins.2019.10.073)]
 
+## TVT 2020
+* [Hybrid] Freeway Travel Time Prediction Using Deep Hybrid Model – Taking Sun Yat-Sen Freeway as an Example [[paper](https://doi.org/10.1109/TVT.2020.2999358)]
+
+## TII 2020
+* [Nei-TTE] Nei-TTE: Intelligent Traffic Time Estimation Based on Fine-Grained Time Derivation of Road Segments for Smart City [[paper](https://doi.org/10.1109/TII.2019.2943906)]
+
+## KDD 2020
+* [HetETA] HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival [[paper](https://doi.org/10.1145/3394486.3403294)]
+* [CompactETA] CompactETA: A Fast Inference System for Travel Time Prediction [[paper](https://doi.org/10.1145/3394486.3403386)]
+* [ConSTGAT] ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps [[paper](https://doi.org/10.1145/3394486.3403320)]
+
+## WWW 2019
+* [DeepGTT] Learning Travel Time Distributions with Deep Generative Model [[paper](https://doi.org/10.1145/3308558.3313418)]
+
+## CIKM 2019
+* [DeepIST] DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation [[paper](https://doi.org/10.1145/3357384.3357870)]
+
+## IJCAI 2019
+* [DeepI2T] Travel Time Estimation without Road Networks: An Urban Morphological Layout Representation Approach [[paper](https://doi.org/10.24963/ijcai.2019/245)]
+
+## KDD 2018
+* [WDR] Learning to Estimate the Travel Time [[paper](https://doi.org/10.1145/3219819.3219900)]
+
+## IJCAI 2018
+* [DeepTravel] DeepTRAVEL: A Neural Network Based Travel Time Estimation Model With Auxiliary Supervision [[paper](https://doi.org/10.24963/ijcai.2018/508)]
+
+## AAAI 2018
+* [DeepTTE] When will you arrive? Estimating Travel Time Based on Deep Neural Networks 
 
 
 
