@@ -1,4 +1,4 @@
-# Deep Learning for Travel Time Estimation (TTE) & Estimated Time of Arrival (ETA)
+# Deep Learning for Travel Time Estimation (TTE) & Estimated Time of Arrival (ETA): A Survey
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
@@ -169,7 +169,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig2.png"/>
 </p>
 
-# Updating~! 
+# Updating~ 持续更新中! 
 
 
 
