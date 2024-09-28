@@ -122,7 +122,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [DeepTravel] DeepTRAVEL: A Neural Network Based Travel Time Estimation Model With Auxiliary Supervision [[paper](https://doi.org/10.24963/ijcai.2018/508)]
 
 ## AAAI 2018
-* [DeepTTE] When will you arrive? Estimating Travel Time Based on Deep Neural Networks [[code](https://github.com/UrbComp/DeepTTE)]
+* [DeepTTE] When will you arrive? Estimating Travel Time Based on Deep Neural Networks [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/travel-time-estimation-dnn.pdf)] [[code](https://github.com/UrbComp/DeepTTE)]
 
 
 # OD-based方向的期刊+顶会论文
@@ -147,5 +147,31 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 
 ## KDD 2018
 * [MURAT] Multi-task Representation Learning for Travel Time Estimation [[paper](https://doi.org/10.1145/3219819.3220033)]
+
+## Summary Table of Open Source Models
+|NO. | Year  |  Model  |  Paper  |  Code  | 
+|:---|:------|:-------:|--------:|--------:|
+|1| TITS 2024 | [MulT-TTE] | [[paper](https://doi.org/10.1109/TITS.2024.3371071)] | [[code](https://github.com/TXLiao/MulT-TTE)]|
+|2| WWW 2024  | [JGRM] | [[paper](https://doi.org/10.1145/3589334.3645644)] | [[code](https://github.com/mamazi0131/JGRM)] |
+|3| TITS 2023 | [MT-STAN] | [[paper](https://doi.org/10.1109/TITS.2023.3276916)] | [[code](https://github.com/zouguojian/Travel-time-prediction)] |
+|4| ICDE 2023 | [START] | [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)] | [[code](https://github.com/aptx1231/START)] |
+|5| TITS 2022 | [MetaTTE] | [[paper](https://doi.org/10.1109/TITS.2022.3145382)] | [[code](https://github.com/morningstarwang/MetaTTE)] |
+|6| TKDE 2022 | [TTPNet] | [[paper](https://doi.org/10.1109/TKDE.2020.3038259)] | [[code](https://github.com/YibinShen/TTPNet)] |
+|7| KDD 2022  | [HierETA] |[[paper](https://doi.org/10.1145/3534678.3539051)]   |[[code](https://github.com/YuejiaoGong/HierETA)] |
+|8| KDD 2020  | [HetETA] | [[paper](https://doi.org/10.1145/3394486.3403294)] | [[code](https://github.com/didi/heteta)]|
+|9| WWW 2019  | [DeepGTT] | [[paper](https://doi.org/10.1145/3308558.3313418)] | [[code](https://github.com/boathit/deepgtt)] |
+|10| AAAI 2018 | [DeepTTE] | [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/travel-time-estimation-dnn.pdf)] | [[code](https://github.com/UrbComp/DeepTTE)] |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
