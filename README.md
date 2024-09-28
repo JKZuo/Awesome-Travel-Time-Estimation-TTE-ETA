@@ -17,9 +17,58 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 </p>
 
 ### Attention
-- Subsequent list format: **[Model abbreviation]--[Paper title]--[DOI link]**
+- Subsequent list format: **[Model abbreviation]--[Paper title]--[DOI link]--[Github]**
 
-# Route-based方向的期刊论文
+# Route-based方向的期刊+顶会论文
 
 ## TITS 2024
 * [GMM] Improving Urban Travel Time Estimation Using Gaussian Mixture Models [[paper](https://doi.org/10.1109/TITS.2024.3390792)] 
+* [MulT-TTE] Multi-Faceted Route Representation Learning for Travel Time Estimation [[paper](https://doi.org/10.1109/TITS.2024.3371071)] [[code](https://github.com/TXLiao/MulT-TTE)]
+* [KDTTE] Knowledge Distillation for Travel Time Estimation [[paper](https://doi.org/10.1109/TITS.2024.3374325)]
+  
+## IoTJ 2024
+* [GT-TTE] GT-TTE: Modeling Trajectories as Graphs for Travel Time Estimation [[paper](https://doi.org/10.1109/JIOT.2024.3417432)]
+
+## ESWA 2024
+* [DMTL] An Adaptive Deep Multi-task Learning Approach for Citywide Travel Time Collaborative Estimation [[paper](https://doi.org/10.1016/j.eswa.2023.123009)]
+
+## INFU 2024
+* [DMN] A Deep Multimodal Network for Multi-task Trajectory Prediction [[paper](https://doi.org/10.1016/j.inffus.2024.102597)]
+
+## WWW 2024
+* [JGRM] More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://doi.org/10.1145/3589334.3645644)]
+
+## TITS 2023
+* [MT-STAN] When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time [[paper](https://doi.org/10.1109/TITS.2023.3276916)]
+* [RTAG] Travel Time Distribution Estimation by Learning Representations Over Temporal Attributed Graphs [[paper](https://doi.org/10.1109/TITS.2023.3247884)]
+
+## TKDE 2023
+* [DeepTTDE] Citywide Estimation of Travel Time Distributions With Bayesian Deep Graph Learning [[paper](https://doi.org/10.1109/TKDE.2021.3117986)]
+  
+## ACM-TIST 2023
+* [Auto-STDGCN] Dual Graph Convolution Architecture Search for Travel Time Estimation [[paper](https://doi.org/10.1145/3591361)]
+  
+## ESWA 2023
+* [HLGST] HLGST: Hybrid Local–global Spatio-temporal Model for Travel Time Estimation Using Siamese Graph Convolutional With Triplet Networks [[paper](https://doi.org/10.1016/j.eswa.2023.120502)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
