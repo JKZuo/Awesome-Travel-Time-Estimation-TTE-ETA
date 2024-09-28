@@ -164,7 +164,12 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 |9| WWW 2019  | [DeepGTT] | [[paper](https://doi.org/10.1145/3308558.3313418)] | [[code](https://github.com/boathit/deepgtt)] |
 |10| AAAI 2018 | [DeepTTE] | [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/travel-time-estimation-dnn.pdf)] | [[code](https://github.com/UrbComp/DeepTTE)] |
 
+## Proposed TTE-models by [DiDi AI Labs] & [Baidu Inc.]
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig2.png"/>
+</p>
 
+# Updating~! 
 
 
 
