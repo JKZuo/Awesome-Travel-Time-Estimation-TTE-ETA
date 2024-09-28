@@ -15,3 +15,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 <p align="center">
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig1.png"/>
 </p>
+
+# Route-based方向的期刊论文
+## TITS 2024
+* Improving Urban Travel Time Estimation Using Gaussian Mixture Models [[paper](https://doi.org/10.1109/TITS.2024.3390792)] 
