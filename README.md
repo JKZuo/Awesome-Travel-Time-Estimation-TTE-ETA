@@ -36,10 +36,10 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [DMN] A Deep Multimodal Network for Multi-task Trajectory Prediction [[paper](https://doi.org/10.1016/j.inffus.2024.102597)]
 
 ## WWW 2024
-* [JGRM] More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://doi.org/10.1145/3589334.3645644)]
+* [JGRM] More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://doi.org/10.1145/3589334.3645644)] [[code](https://github.com/mamazi0131/JGRM)] 
 
 ## TITS 2023
-* [MT-STAN] When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time [[paper](https://doi.org/10.1109/TITS.2023.3276916)]
+* [MT-STAN] When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time [[paper](https://doi.org/10.1109/TITS.2023.3276916)] [[code]()] 
 * [RTAG] Travel Time Distribution Estimation by Learning Representations Over Temporal Attributed Graphs [[paper](https://doi.org/10.1109/TITS.2023.3247884)]
 
 ## TKDE 2023
@@ -52,7 +52,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [HLGST] HLGST: Hybrid Local–global Spatio-temporal Model for Travel Time Estimation Using Siamese Graph Convolutional With Triplet Networks [[paper](https://doi.org/10.1016/j.eswa.2023.120502)]
 
 ## ICDE 2023
-* [START] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)]
+* [START] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)] [[code](https://github.com/aptx1231/START)] 
 
 ## KDD 2023
 * [ProbTTE] Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi [[paper](https://doi.org/10.1145/3580305.3599925)]
@@ -70,17 +70,17 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [CatETA] CatETA: A Categorical Approximate Approach for Estimating Time of Arrival [[paper](https://doi.org/10.1109/TITS.2022.3207894)]
 * [CTTUE] Cross-Area Travel Time Uncertainty Estimation From Trajectory Data: A Federated Learning Approach [[paper](https://doi.org/10.1109/TITS.2022.3203457)]
 * [CTTE] CTTE: Customized Travel Time Estimation via Mobile Crowdsensing [[paper](https://doi.org/10.1109/TITS.2022.3160468)]
-* [MetaTTE] Fine-Grained Trajectory-Based Travel Time Estimation for Multi-City Scenarios Based on Deep Meta-Learning [[paper](https://doi.org/10.1109/TITS.2022.3145382)]
 * [STTE] Multi-Semantic Path Representation Learning for Travel Time Estimation [[paper](https://doi.org/10.1109/TITS.2021.3119887)]
+* [MetaTTE] Fine-Grained Trajectory-Based Travel Time Estimation for Multi-City Scenarios Based on Deep Meta-Learning [[paper](https://doi.org/10.1109/TITS.2022.3145382)] [[code](https://github.com/morningstarwang/MetaTTE)] 
 
 ## TKDE 2022
-* [TTPNet] TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding [[paper](https://doi.org/10.1109/TKDE.2020.3038259)]
+* [TTPNet] TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding [[paper](https://doi.org/10.1109/TKDE.2020.3038259)] [[code](https://github.com/YibinShen/TTPNet)] 
 
 ## FGCS 2022
 * [STGNN-TTE] STGNN-TTE: Travel Time Estimation via Spatial-Temporal Graph Neural Network [[paper](https://doi.org/10.1016/j.future.2021.07.012)]
 
 ## KDD 2022
-* [HierETA] Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival [[paper](https://doi.org/10.1145/3534678.3539051)]
+* [HierETA] Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival [[paper](https://doi.org/10.1145/3534678.3539051)] [[code](https://github.com/YuejiaoGong/HierETA)] 
 
 ## IEEE letter 2021
 * [GraphTTE] GraphTTE: Travel Time Estimation Based on Attention-Spatiotemporal Graphs [[paper](https://doi.org/10.1109/LSP.2020.3048849)]
@@ -101,12 +101,12 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [Nei-TTE] Nei-TTE: Intelligent Traffic Time Estimation Based on Fine-Grained Time Derivation of Road Segments for Smart City [[paper](https://doi.org/10.1109/TII.2019.2943906)]
 
 ## KDD 2020
-* [HetETA] HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival [[paper](https://doi.org/10.1145/3394486.3403294)]
+* [HetETA] HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival [[paper](https://doi.org/10.1145/3394486.3403294)] [[code](https://github.com/didi/heteta)]
 * [CompactETA] CompactETA: A Fast Inference System for Travel Time Prediction [[paper](https://doi.org/10.1145/3394486.3403386)]
 * [ConSTGAT] ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps [[paper](https://doi.org/10.1145/3394486.3403320)]
 
 ## WWW 2019
-* [DeepGTT] Learning Travel Time Distributions with Deep Generative Model [[paper](https://doi.org/10.1145/3308558.3313418)]
+* [DeepGTT] Learning Travel Time Distributions with Deep Generative Model [[paper](https://doi.org/10.1145/3308558.3313418)] [[code](https://github.com/boathit/deepgtt)]
 
 ## CIKM 2019
 * [DeepIST] DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation [[paper](https://doi.org/10.1145/3357384.3357870)]
@@ -121,7 +121,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [DeepTravel] DeepTRAVEL: A Neural Network Based Travel Time Estimation Model With Auxiliary Supervision [[paper](https://doi.org/10.24963/ijcai.2018/508)]
 
 ## AAAI 2018
-* [DeepTTE] When will you arrive? Estimating Travel Time Based on Deep Neural Networks 
+* [DeepTTE] When will you arrive? Estimating Travel Time Based on Deep Neural Networks [[code](https://github.com/UrbComp/DeepTTE)]
 
 
 # OD-based方向的期刊+顶会论文
