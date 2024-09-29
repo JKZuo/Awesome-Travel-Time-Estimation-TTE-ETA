@@ -201,16 +201,16 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
   
 | NO. | Name | Source | Timespan | Description | Web-Link | 
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1 | Porto | Kaggle| A complete year From July 1st, 2013 to June 30th, 2014 | Dataset Size: 1,710,670 trajectories (83,409,386 GPS records, 1.8 GB) of 442 taxis, and Sample Rate is 15 seconds | [[kaggle1](https://www.kaggle.com/competitions/pkdd-15-taxi-trip-time-prediction-ii/code)], [[kaggle2](https://www.kaggle.com/crailtap/taxi-trajectory)] |
+| 1 | Porto | Kaggle| From July 1st, 2013 to June 30th, 2014 | Dataset Size: 1,710,670 trajectories (83,409,386 GPS records, 1.8 GB) of 442 taxis, and Sample Rate is 15 seconds | [[kaggle1](https://www.kaggle.com/competitions/pkdd-15-taxi-trip-time-prediction-ii/code)], [[kaggle2](https://www.kaggle.com/crailtap/taxi-trajectory)] |
 | 2 | Chengdu-14 | DataCastle | From August 3rd to 30th, 2014 |Dataset Size: 9,737,557 (DeepTTE) OR 1,540,438 (MetaTTE) trajectories (1.4 billion GPS records) of 14,864 taxis| [[DataCastle](https://challenge.datacastle.cn/v3/cmptDetail.html?id=175)], [[DeepTTE](https://github.com/UrbComp/DeepTTE)], [[MetaTTE](https://github.com/morningstarwang/MetaTTE)] |
 | 3 | Chengdu-16 | DiDi | From October 1st to November 30th, 2016 | Dataset Size: 5,421,666 trajectories of 41,527 taxis, Sample Rate is 2-4 seconds | [[DIDI-GAIA](https://outreach.didichuxing.com/)] |
 | 4 | Xi'an-16   | DiDi | From October 1st to November 30th, 2016 | Dataset Size: 6,518,840 trajectories of 20,053 taxis, Sample Rate is 2-4 seconds | [[DIDI-GAIA](https://outreach.didichuxing.com/)] |
 | 5 | Shenzhen-20 | DiDi | From August 1st to 31st, 2020 | Dataset Size: 8,651,005 trajectories (18.6 GB) of 80,886 taxis which contains 882,389 links/road segments | [[ACM2021-GISCUP](https://www.biendata.xyz/competition/didi-eta/)] |
 | 6 | Q-Traffic-BJ-17 | Baidu | From April 1st to May 31st, 2017 | Dataset Size: comprises 114 million crowd user queries, geographical attributes, and traffic flow of 15,073 road segments | [[BaiduTraffic](https://github.com/JingqingZ/BaiduTraffic)], [[Baidu](https://ai.baidu.com/broad/introduction)] |
-| 7 | NYC-taxi-13 | NYC | --- | --- | [[Taxi-Trip](http://chriswhong.com/open-data/foiling-nycs-boro-taxi-trip-data/)], [[Foil-NYC-Taxi](http://chriswhong.com/open-data/foil_nyc_taxi/)] |
+| 7 | NYC-taxi-13 | NYC | A complete year From January 1st to December 31st, 2013 | Dataset Size: Trip Data (11.0GB) & Fare Data (7.7GB) | [[Taxi-Trip](http://chriswhong.com/open-data/foiling-nycs-boro-taxi-trip-data/)], [[Foil-NYC-Taxi](http://chriswhong.com/open-data/foil_nyc_taxi/)] |
 | 8 | NYC-taxi-16 | NYC | From Jan. 1st to Jun. 30th in 2016 |  Dataset Size: 69,406,520 trajectories (10.1 GB) | [[TLC-Trip](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)] |
-| 9 | NYC-bike-20 | Lyft | --- |  Lyft ride-sharing company (USA) | [[Tripdata](https://s3.amazonaws.com/tripdata/index.html)] |
-| 10 | OpenPFLOW | OpenPFLOW | -- |  Collected 68 million GPS sample points from 617,040 users in Tokyo who used different modes of transportation| [[OpenPFLOW](https://github.com/sekilab/OpenPFLOW)] |
+| 9 | NYC-bike-20 | Lyft | A complete year From January 1st to December 31st, 2020 |  Lyft ride-sharing company (USA) | [[Tripdata](https://s3.amazonaws.com/tripdata/index.html)] |
+| 10 | OpenPFLOW | OpenPFLOW | A complete year From January 1st to December 31st, 2010 |  Collected 68 million GPS sample points from 617,040 users in Tokyo who used different modes of transportation| [[OpenPFLOW](https://github.com/sekilab/OpenPFLOW)] |
 
 - Other datasets
   
