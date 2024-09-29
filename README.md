@@ -10,7 +10,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 
 搜集/汇总有关 **旅行时间估计 (Travel Time Estimation, TTE)** 和 **预计到达时间 (Estimated Time of Arrival, ETA)** 的相关【学术界】和【工业界 (滴滴、百度、高德、谷歌地图等等)】的最新研究成果与进展。
 
-- 论文大多来自顶刊顶会或其它Q1主流期刊，欢迎小伙伴们补充+交流~
+- 论文大多来自顶刊顶会或CS-Q1主流期刊，整理各种**交通+轨迹数据集**，欢迎小伙伴们补充+交流~
 - 综述撰写中，**arXiv可见将通知，整理不易，请勿侵权©~**
 - **Updating 持续更新中~**
 
@@ -23,7 +23,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig1.png"/>
 </p>
 
-## Attention
+### Attention
 - Subsequent list format: **[Model abbreviation]--[Paper title]--[DOI link]--[Github]**
 
 # Route-based Researches
@@ -185,14 +185,17 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 | 10 | AAAI 2018 | [DeepTTE] | Geo-Conv, LSTM, Attention, Multitask| [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/travel-time-estimation-dnn.pdf)] | [[code](https://github.com/UrbComp/DeepTTE)] |
 
 ## Proposed TTE-models by [DiDi AI Labs] & [Baidu Inc.]
-* DiDi and Baidu, two leading corporations, have each developed models for Travel Time Estimation (TTE) with the goal of improving the efficiency of intelligent transportation systems (ITS), navigation, route planning, and ride-hailing services.
+- DiDi and Baidu, two leading corporations, have each developed models for Travel Time Estimation (TTE) with the goal of improving the efficiency of intelligent transportation systems (ITS), navigation, route planning, and ride-hailing services.
 <p align="center">
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_2.png"/>
 </p>
 
-* DiDi's representative approach was the Wide-Deep-Recurrent (WDR) model in 2018. This model combines a wide linear model, deep neural networks, and recurrent neural networks to capture both the global statistical information and the local detailed information of a route. Later, by integrating Graph Convolutional Networks (GCNs) and attention mechanisms, DiDi proposed the HetETA (2020) and HierETA (2022).
-* Baidu's representative method was the proposal of the ConSTGAT model in 2020, an end-to-end neural framework that integrates traffic prediction and contextual information of a route. This model employs a novel graph attention mechanism to fully leverage the joint relationships of spatial and temporal information. Subsequently, building upon ConSTGAT, Baidu introduced the DuETA (2022) and GBTTE (2023), both of which have been deployed on Baidu Maps, handling billions of requests daily.
-* **In summary**, DiDi focuses on utilizing a diverse array of features, including route information, traffic conditions, and personalized information. Baidu, in addition to utilizing these features, also places special emphasis on the contextual information of routes, such as the connectivity between adjacent road segments.
+- DiDi's representative approach was the Wide-Deep-Recurrent (WDR) model in 2018. This model combines a wide linear model, deep neural networks, and recurrent neural networks to capture both the global statistical information and the local detailed information of a route. Later, by integrating Graph Convolutional Networks (GCNs) and attention mechanisms, DiDi proposed the HetETA (2020) and HierETA (2022).
+- Baidu's representative method was the proposal of the ConSTGAT model in 2020, an end-to-end neural framework that integrates traffic prediction and contextual information of a route. This model employs a novel graph attention mechanism to fully leverage the joint relationships of spatial and temporal information. Subsequently, building upon ConSTGAT, Baidu introduced the DuETA (2022) and GBTTE (2023), both of which have been deployed on Baidu Maps, handling billions of requests daily.
+- **In summary**, DiDi focuses on utilizing a diverse array of features, including route information, traffic conditions, and personalized information. Baidu, in addition to utilizing these features, also places special emphasis on the contextual information of routes, such as the connectivity between adjacent road segments.
+
+## Open Source Traffic & Trajectory Datasets
+- Here, we have collected and organized #24 trajectory-based datasets that can be used for traffic prediction (flow, speed, etc.) and travel time estimation (TTE/ETA) tasks!
 
 # Updating~ 持续更新中! 
 
