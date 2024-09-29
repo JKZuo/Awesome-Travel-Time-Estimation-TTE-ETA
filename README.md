@@ -205,8 +205,8 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
   
 - Top 10 popular datasets
   
-| NO. | Name | Source | Timespan | Description | Web-Link | 
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| NO.  | Name | Source | Timespan | Description | Web-Link | 
+| ---- | ---- | ----   | ----     |    ----     | ---- |
 | 1 | Porto | Kaggle| From July 1st, 2013 to June 30th, 2014 | Dataset Size: 1,710,670 trajectories (83,409,386 GPS records, 1.8 GB) of 442 taxis, and Sample Rate is 15 seconds | [[kaggle1](https://www.kaggle.com/competitions/pkdd-15-taxi-trip-time-prediction-ii/code)], [[kaggle2](https://www.kaggle.com/crailtap/taxi-trajectory)] |
 | 2 | Chengdu-14 | DataCastle | From August 3rd to 30th, 2014 |Dataset Size: 9,737,557 (DeepTTE) OR 1,540,438 (MetaTTE) trajectories (1.4 billion GPS records) of 14,864 taxis| [[DataCastle](https://challenge.datacastle.cn/v3/cmptDetail.html?id=175)], [[DeepTTE](https://github.com/UrbComp/DeepTTE)], [[MetaTTE](https://github.com/morningstarwang/MetaTTE)] |
 | 3 | Chengdu-16 | DiDi | From October 1st to November 30th, 2016 | Dataset Size: 5,421,666 trajectories of 41,527 taxis, Sample Rate is 2-4 seconds | [[DIDI-GAIA](https://outreach.didichuxing.com/)] |
