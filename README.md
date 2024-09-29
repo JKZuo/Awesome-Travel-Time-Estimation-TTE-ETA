@@ -195,7 +195,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 - **In summary**, DiDi focuses on utilizing a diverse array of features, including route information, traffic conditions, and personalized information. Baidu, in addition to utilizing these features, also places special emphasis on the contextual information of routes, such as the connectivity between adjacent road segments.
 
 ## Open Source Traffic & Trajectory Datasets
-- Here, we have collected and organized #20 Trajectory-based datasets that can be used for Traffic Prediction (flow, speed, etc.) and Travel Time Estimation (TTE/ETA) tasks!
+- Here, we have collected and organized #20 **Trajectory-based datasets** that can be used for **Traffic Prediction (flow, speed, etc.) and Travel Time Estimation (TTE/ETA)** tasks!
   
 - Top 10 popular datasets
   
@@ -227,7 +227,15 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 | 9 | TaxiBJ-13 | [[DeepST](https://github.com/TolicWang/DeepST/blob/master/data/TaxiBJ/README.md)] |
 | 10 | CD | [[CD](https://ieee-dataport.org/documents/travel-time-data-chengdu-road-network)] |
 
+In addition, you may need some additional tools or industry information to better complete your **Traffic Forecasting or Travel Time Estimation** tasks~
 
+Related Resources: 
+* Fast Map Matching: [[FMM](https://fmm-wiki.github.io/)]
+* Baidu PaddlePaddle at Spatial-Temporal Data-Mining: [[PaddlePaddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM)]
+* DiDi Travel Time Index (TTI): [[DIDI-TTI](https://github.com/didi/TrafficIndex)]
+* Baidu Map Smart Transportation & China Urban Transport Report: [[Baidu-Smart](https://jiaotong.baidu.com/)]
+
+  
 # Updating~ 持续更新中! 
 
 
