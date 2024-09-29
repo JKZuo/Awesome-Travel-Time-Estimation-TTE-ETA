@@ -20,7 +20,10 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 - It is significant in traffic management, carpooling, vehicle dispatching, and other location-based service (LBS) applications.
   
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig1.png"/>
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig1_TTE+ETA.png"/>
+</p>
+<p align = "center">
+<b>Figure 1. Illustration of Travel-Time-Estimation (TTE) & Estimated-Time-of-Arrival (ETA). </b> 
 </p>
 
 ### Attention
@@ -187,7 +190,10 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 ## Proposed TTE-models by [DiDi AI Labs] & [Baidu Inc.]
 - DiDi and Baidu, two leading corporations, have each developed models for Travel Time Estimation (TTE) with the goal of improving the efficiency of intelligent transportation systems (ITS), navigation, route planning, and ride-hailing services.
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_2.png"/>
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig2_DiDi+Baidu.png"/>
+</p>
+<p align = "center">
+<b>Figure 2. The technological development trends of two well-known companies in the TTE field. </b> 
 </p>
 
 - DiDi's representative approach was the Wide-Deep-Recurrent (WDR) model in 2018. This model combines a wide linear model, deep neural networks, and recurrent neural networks to capture both the global statistical information and the local detailed information of a route. Later, by integrating Graph Convolutional Networks (GCNs) and attention mechanisms, DiDi proposed the HetETA (2020) and HierETA (2022).
