@@ -174,17 +174,17 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 * [MURAT] Multi-task Representation Learning for Travel Time Estimation [[paper](https://doi.org/10.1145/3219819.3220033)]
 
 ## Summary List of #10 Open Source Models
-| NO. | Year  |  Model  | Method      | Paper  |  Code  | 
-|----|----|----|----|----|----|
-| 1 | TITS 2024 | [MulT-TTE] | Transformer, Self-supervised Learning| [[paper](https://doi.org/10.1109/TITS.2024.3371071)] | [[code](https://github.com/TXLiao/MulT-TTE)]|
-| 2 | WWW 2024  | [JGRM] | Bi-GRU, Attention, Self-Supervised Learning| [[paper](https://doi.org/10.1145/3589334.3645644)] | [[code](https://github.com/mamazi0131/JGRM)] |
-| 3 | TITS 2023 | [MT-STAN] | Bridge/Semantic Attention, Cross-network| [[paper](https://doi.org/10.1109/TITS.2023.3276916)] | [[code](https://github.com/zouguojian/Travel-time-prediction)] |
-| 4 | ICDE 2023 | [START] | TPE-GAT, TAT-Enc, Self-Attention| [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)] | [[code](https://github.com/aptx1231/START)] |
-| 5 | TITS 2022 | [MetaTTE] | Meta-Learning, Attention| [[paper](https://doi.org/10.1109/TITS.2022.3145382)] | [[code](https://github.com/morningstarwang/MetaTTE)] |
-| 6 | TKDE 2022 | [TTPNet] | LSTM, CNN, SDNE, Embedding| [[paper](https://doi.org/10.1109/TKDE.2020.3038259)] | [[code](https://github.com/YibinShen/TTPNet)] |
-| 7 | KDD 2022  | [HierETA] | Bi-LSTM, Hierarchical Self-Attention|[[paper](https://doi.org/10.1145/3534678.3539051)]   |[[code](https://github.com/YuejiaoGong/HierETA)] |
-| 8 | KDD 2020  | [HetETA] | ChebNet, Gated-CNN, MLP| [[paper](https://doi.org/10.1145/3394486.3403294)] | [[code](https://github.com/didi/heteta)]|
-| 9 | WWW 2019  | [DeepGTT] | Deep Generative Model, CNN, Embed| [[paper](https://doi.org/10.1145/3308558.3313418)] | [[code](https://github.com/boathit/deepgtt)] |
+| NO. | Year | Model | Method | Paper | Code | 
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 1  | TITS 2024 | [MulT-TTE] | Transformer, Self-supervised Learning| [[paper](https://doi.org/10.1109/TITS.2024.3371071)] | [[code](https://github.com/TXLiao/MulT-TTE)]|
+| 2  | WWW 2024  | [JGRM] | Bi-GRU, Attention, Self-Supervised Learning| [[paper](https://doi.org/10.1145/3589334.3645644)] | [[code](https://github.com/mamazi0131/JGRM)] |
+| 3  | TITS 2023 | [MT-STAN] | Bridge/Semantic Attention, Cross-network| [[paper](https://doi.org/10.1109/TITS.2023.3276916)] | [[code](https://github.com/zouguojian/Travel-time-prediction)] |
+| 4  | ICDE 2023 | [START] | TPE-GAT, TAT-Enc, Self-Attention| [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)] | [[code](https://github.com/aptx1231/START)] |
+| 5  | TITS 2022 | [MetaTTE] | Meta-Learning, Attention| [[paper](https://doi.org/10.1109/TITS.2022.3145382)] | [[code](https://github.com/morningstarwang/MetaTTE)] |
+| 6  | TKDE 2022 | [TTPNet] | LSTM, CNN, SDNE, Embedding| [[paper](https://doi.org/10.1109/TKDE.2020.3038259)] | [[code](https://github.com/YibinShen/TTPNet)] |
+| 7  | KDD 2022  | [HierETA] | Bi-LSTM, Hierarchical Self-Attention|[[paper](https://doi.org/10.1145/3534678.3539051)]   |[[code](https://github.com/YuejiaoGong/HierETA)] |
+| 8  | KDD 2020  | [HetETA] | ChebNet, Gated-CNN, MLP| [[paper](https://doi.org/10.1145/3394486.3403294)] | [[code](https://github.com/didi/heteta)]|
+| 9  | WWW 2019  | [DeepGTT] | Deep Generative Model, CNN, Embed| [[paper](https://doi.org/10.1145/3308558.3313418)] | [[code](https://github.com/boathit/deepgtt)] |
 | 10 | AAAI 2018 | [DeepTTE] | Geo-Conv, LSTM, Attention, Multitask| [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/travel-time-estimation-dnn.pdf)] | [[code](https://github.com/UrbComp/DeepTTE)] |
 
 ## Proposed TTE-models by [DiDi AI Labs] & [Baidu Inc.]
@@ -206,7 +206,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 - Top 10 popular datasets
   
 | NO.  | Name | Source | Timespan | Description | Web-Link | 
-| ---- | ---- | ----   | ----     |    ----     | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Porto | Kaggle| From July 1st, 2013 to June 30th, 2014 | Dataset Size: 1,710,670 trajectories (83,409,386 GPS records, 1.8 GB) of 442 taxis, and Sample Rate is 15 seconds | [[kaggle1](https://www.kaggle.com/competitions/pkdd-15-taxi-trip-time-prediction-ii/code)], [[kaggle2](https://www.kaggle.com/crailtap/taxi-trajectory)] |
 | 2 | Chengdu-14 | DataCastle | From August 3rd to 30th, 2014 |Dataset Size: 9,737,557 (DeepTTE) OR 1,540,438 (MetaTTE) trajectories (1.4 billion GPS records) of 14,864 taxis| [[DataCastle](https://challenge.datacastle.cn/v3/cmptDetail.html?id=175)], [[DeepTTE](https://github.com/UrbComp/DeepTTE)], [[MetaTTE](https://github.com/morningstarwang/MetaTTE)] |
 | 3 | Chengdu-16 | DiDi | From October 1st to November 30th, 2016 | Dataset Size: 5,421,666 trajectories of 41,527 taxis, Sample Rate is 2-4 seconds | [[DIDI-GAIA](https://outreach.didichuxing.com/)] |
@@ -221,9 +221,8 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 <p align="center">
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig3_NYC.png" width="700"/>
 </p>
-  
-<b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in NYC (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
 
+<b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in NYC (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
 
 <p align="center">
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig4_Porto.png" width="700"/>
