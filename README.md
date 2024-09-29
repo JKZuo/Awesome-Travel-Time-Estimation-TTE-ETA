@@ -30,9 +30,9 @@
   - [From 2018 to 2023 with 7 papers](#from-2018-to-2023-with-7-papers)
 - [Summary List of Ten Open Source Models](#summary-list-of-ten-open-source-models)
 - [Proposed TTE Models by DiDi and Baidu](#proposed-tte-models-by-didi-and-baidu)
-  - [Open Source Traffic and Trajectory Datasets](#open-source-traffic-and-trajectory-datasets)
+- [Open Source Traffic and Trajectory Datasets](#open-source-traffic-and-trajectory-datasets)
   - [Top 10 Popular Datasets](#top-10-popular-datasets)
-- [Other Datasets](#other-datasets)
+  - [Other Datasets](#other-datasets)
 - [Related Resources](#related-resources)
 
   
