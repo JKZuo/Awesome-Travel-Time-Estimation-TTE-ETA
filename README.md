@@ -222,7 +222,7 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig3_NYC.png" width="700"/>
 </p>
   
-<b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in New-York-City (NYC) (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
+<b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in NYC (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
 
 
 <p align="center">
