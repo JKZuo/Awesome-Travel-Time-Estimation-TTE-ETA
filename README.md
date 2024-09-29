@@ -10,9 +10,9 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 
 搜集/汇总有关 **旅行时间估计 (Travel Time Estimation, TTE)** 和 **预计到达时间 (Estimated Time of Arrival, ETA)** 的相关【学术界】和【工业界 (滴滴、百度、高德、谷歌地图等等)】的最新研究成果与进展。
 
-- 论文大多来自顶刊顶会或CS-Q1主流期刊，整理各种**交通+轨迹数据集**，欢迎小伙伴们补充+交流~
-- 综述撰写中，**arXiv可见将通知，整理不易，请勿侵权©~**
-- **Updating 持续更新中~**
+- ① 论文大多来自顶刊顶会或CS-Q1主流期刊，整理各种**交通+轨迹数据集**，欢迎小伙伴们补充+交流~
+- ② 综述撰写中，**arXiv可见将通知，整理不易，请勿侵权©~**
+- ③ **Updating 持续更新中~**
 
 ## What is TTE or ETA?
 - The popularity of location technology has produced massive trajectory data of moving vehicles, such as the driving trajectories of taxis, buses, private cars, and other automobiles.
