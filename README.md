@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Code](https://img.shields.io/badge/Code-python-purple)
 
-✨ A Detailed and Curated Survey on Deep Learning for Travel Time Estimation (TTE) and Estimated Time of Arrival (ETA).
+✨ A Detailed & Curated Survey on Deep Learning for Travel Time Estimation (TTE) and Estimated Time of Arrival (ETA).
 
 搜集/汇总有关 **旅行时间估计 (Travel Time Estimation, TTE)** 和 **预计到达时间 (Estimated Time of Arrival, ETA)** 的相关【学术界】和【工业界 (滴滴、百度、高德、谷歌地图等等)】的最新研究成果与进展。
 
@@ -230,7 +230,7 @@
 | NO.  | Name | Source | Timespan | Description | Web-Link | 
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | Porto | Kaggle| From July 1st, 2013 to June 30th, 2014 | Dataset Size: 1,710,670 trajectories (83,409,386 GPS records, 1.8 GB) of 442 taxis, and Sample Rate is 15 seconds | [[kaggle1](https://www.kaggle.com/competitions/pkdd-15-taxi-trip-time-prediction-ii/code)]✅, [[kaggle2](https://www.kaggle.com/crailtap/taxi-trajectory)]✅ |
-| 2 | Chengdu-14 | DataCastle | From August 3rd to 30th, 2014 |Dataset Size: 9,737,557 (DeepTTE) OR 1,540,438 (MetaTTE) trajectories (1.4 billion GPS records) of 14,864 taxis| [[DataCastle](https://challenge.datacastle.cn/v3/cmptDetail.html?id=175)]✅, [[DeepTTE](https://github.com/UrbComp/DeepTTE)]✅, [[MetaTTE](https://github.com/morningstarwang/MetaTTE)]✅ |
+| 2 | Chengdu-14 | DataCastle | From August 3rd to 30th, 2014 |Dataset Size: 9,737,557 (DeepTTE) OR 1,540,438 (MetaTTE) trajectories (1.4 billion GPS records) of 14,864 taxis| [[DataCastle](https://challenge.datacastle.cn/v3/cmptDetail.html?id=175)]🔶, [[DeepTTE](https://github.com/UrbComp/DeepTTE)]✅, [[MetaTTE](https://github.com/morningstarwang/MetaTTE)]✅ |
 | 3 | Chengdu-16 | DiDi | From October 1st to November 30th, 2016 | Dataset Size: 5,421,666 trajectories of 41,527 taxis, Sample Rate is 2-4 seconds | [[DIDI-GAIA](https://outreach.didichuxing.com/)] 🔶|
 | 4 | Xi'an-16   | DiDi | From October 1st to November 30th, 2016 | Dataset Size: 6,518,840 trajectories of 20,053 taxis, Sample Rate is 2-4 seconds | [[DIDI-GAIA](https://outreach.didichuxing.com/)] 🔶|
 | 5 | Shenzhen-20 | DiDi | From August 1st to 31st, 2020 | Dataset Size: 8,651,005 trajectories (18.6 GB) of 80,886 taxis which contains 882,389 links/road segments | [[ACM2021-GISCUP](https://www.biendata.xyz/competition/didi-eta/)] 🔶|
@@ -240,11 +240,11 @@
 | 9 | NYC-bike-20 | Lyft | A complete year From January 1st to December 31st, 2020 |  Lyft ride-sharing company (USA) | [[Tripdata](https://s3.amazonaws.com/tripdata/index.html)]🔶 |
 | 10 | OpenPFLOW | OpenPFLOW | A complete year From January 1st to December 31st, 2010 |  Collected 68 million GPS sample points from 617,040 users in Tokyo who used different modes of transportation| [[OpenPFLOW](https://github.com/sekilab/OpenPFLOW)]✅ |
 
-* ✅ — Valid  links, i.e., complete data downloadable
-* 🔶 — Invalid link, i.e., data cannot be downloaded after a certain period of time. **[If you want to obtain them, Please contact me~]**
+* ✅ — Valid  links, i.e., complete data downloadable.
+* 🔶 — Invalid link, i.e., data cannot be downloaded after a certain time. **[If you want to obtain them, Please contact me~]**
   
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig3_NYC.png" width="700"/>
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig3_NYC.png" width="600"/>
 </p>
 
 <b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in NYC (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
