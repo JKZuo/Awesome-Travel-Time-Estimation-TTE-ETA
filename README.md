@@ -218,6 +218,20 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 | 9 | NYC-bike-20 | Lyft | A complete year From January 1st to December 31st, 2020 |  Lyft ride-sharing company (USA) | [[Tripdata](https://s3.amazonaws.com/tripdata/index.html)] |
 | 10 | OpenPFLOW | OpenPFLOW | A complete year From January 1st to December 31st, 2010 |  Collected 68 million GPS sample points from 617,040 users in Tokyo who used different modes of transportation| [[OpenPFLOW](https://github.com/sekilab/OpenPFLOW)] |
 
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig3_NYC.png" width="700"/>
+</p>
+  
+<b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in New-York-City (NYC) (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
+
+
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig4_Porto.png" width="700"/>
+</p>
+
+<b>Figure 4. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in Porto city (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
+
+
 - Other datasets
   
 | NO. | Name |  Web-Link | 
@@ -233,7 +247,23 @@ A curated list/survey of/on Deep learning for Travel Time Estimation (TTE) and E
 | 9 | TaxiBJ-13 | [[DeepST](https://github.com/TolicWang/DeepST/blob/master/data/TaxiBJ/README.md)] |
 | 10 | CD | [[CD](https://ieee-dataport.org/documents/travel-time-data-chengdu-road-network)] |
 
-In addition, you may need some additional tools or industry information to better complete your **Traffic Forecasting or Travel Time Estimation** tasks~
+- Visualization of Road Network in Beijing, Chengdu & Xi'an
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig5_BJ.png"/>
+</p>
+<p align = "center">
+<b>Figure 5. Visualization of Road Network Map in Beijing and the effect of regional clustering at different scales. </b> 
+</p>
+
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig6_CD+XA.png" width="600"/>
+</p>
+<p align = "center">
+<b>Figure 6. Visualization of Road Network Map in Chengdu & Xi'an. </b> 
+</p>
+
+
+- In addition, you may need some additional tools or industry information to better complete your **Traffic Forecasting or Travel Time Estimation** tasks~
 
 Related Resources: 
 * Fast Map Matching: [[FMM](https://fmm-wiki.github.io/)]
@@ -241,7 +271,7 @@ Related Resources:
 * DiDi Travel Time Index (TTI): [[DIDI-TTI](https://github.com/didi/TrafficIndex)]
 * Baidu Map Smart Transportation & China Urban Transport Report: [[Baidu-Smart](https://jiaotong.baidu.com/)]
 
-  
+
 # Updating~ 持续更新中! 
 
 
