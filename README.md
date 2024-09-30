@@ -19,6 +19,7 @@
 ## Table of Contents
 
 - [What is TTE or ETA?](#what-is-tte-or-eta)
+- [Relationship Between TTE and Other SpatioTemporal Tasks](#relationship-between-tte-and-other-spatiotemporal-tasks)
   - [Attention](#attention)
 - [Route-based Researches](#route-based-researches)
   - [2024 year with 7 papers](#2024-year-with-7-papers)
@@ -49,6 +50,15 @@
 <p align = "center">
 <b>Figure 1. Illustration of Travel-Time-Estimation (TTE) & Estimated-Time-of-Arrival (ETA). </b> 
 </p>
+
+## Relationship Between TTE and Other SpatioTemporal Tasks
+- **(1) Traffic Imputation**: Ensures the completeness of traffic data and enhances the predictive performance of traffic forecasting models.  
+- **(2) Road Network Representation Learning**: Captures the spatial and topological relationships between road segments, improving the accuracy of traffic prediction.  
+- **(3) Traffic Prediction**: Provides dynamic and real-time traffic conditions for travel time estimation.  
+- **(4) Travel Time Estimation**: Infers the estimated time of arrival and plans routes while avoiding congestion for given origin-destination pairs. It is widely applied in navigation systems, route planning, ride-hailing services, and more.
+
+- Overall, these tasks collectively form the critical components of Intelligent Transportation Systems (ITS). They are interdependent and complementary, working together to enhance urban transportation networks' overall intelligence and efficiency.
+
 
 ### Attention
 - Subsequent list format: **[Model abbreviation]--[Paper title]--[DOI link]--[Github]**
