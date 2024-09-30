@@ -57,7 +57,14 @@
 - **(3) Traffic Prediction**: Provides dynamic and real-time traffic conditions for travel time estimation.  
 - **(4) Travel Time Estimation**: Infers the estimated time of arrival and plans routes while avoiding congestion for given origin-destination pairs. It is widely applied in navigation systems, route planning, ride-hailing services, and more.
 
-- Overall, these tasks collectively form the critical components of Intelligent Transportation Systems (ITS). They are interdependent and complementary, working together to enhance urban transportation networks' overall intelligence and efficiency.
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_.png" width="600"/>
+</p>
+<p align = "center">
+<b>Figure 2. Relationship Between TTE and Other SpatioTemporal Tasks. </b> 
+</p>
+
+- Overall, these tasks collectively form the critical components of **Intelligent Transportation Systems (ITS)**. They are interdependent and complementary, working together to enhance urban transportation networks' overall efficiency.
 
 
 ### Attention
@@ -227,7 +234,7 @@
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig2_DiDi+Baidu.png"/>
 </p>
 <p align = "center">
-<b>Figure 2. The technological development trends of two well-known companies in the TTE field. </b> 
+<b>Figure 3. The Technological Development Trends of Two Well-known Companies in the TTE Field. </b> 
 </p>
 
 - DiDi's representative approach was the **Wide-Deep-Recurrent (WDR)** model in 2018. This model combines a wide linear model, deep neural networks, and recurrent neural networks to capture both the global statistical information and the local detailed information of a route. Later, by integrating Graph Convolutional Networks (GCNs) and attention mechanisms, **DiDi proposed the HetETA (2020) and HierETA (2022)**.
@@ -259,13 +266,13 @@
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig3_NYC.png" width="600"/>
 </p>
 
-<b>Figure 3. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in NYC (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
+<b>Figure 4. GPS Spatial Distribution of Origin-Destination (Pick-ups and Drop-offs) in NYC (From [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
 
 <p align="center">
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig4_Porto.png" width="700"/>
 </p>
 
-<b>Figure 4. GPS spatial distribution of Origin-Destination (Pick-ups and Drop-offs) in Porto city (from [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
+<b>Figure 5. GPS Spatial Distribution of Origin-Destination (Pick-ups and Drop-offs) in Porto City (From [[SGED-Net](https://doi.org/10.1109/IJCNN54540.2023.10191790)]).</b> 
 
 ### Other Datasets
   
@@ -287,14 +294,14 @@
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig5_BJ.png"/>
 </p>
 <p align = "center">
-<b>Figure 5. Visualization of Road Network Map in Beijing and the effect of regional clustering at different scales. </b> 
+<b>Figure 6. Visualization of Road Network Map in Beijing and the Effect of Regional Clustering at Different Scales. </b> 
 </p>
 
 <p align="center">
 <img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig6_CD+XA.png" width="600"/>
 </p>
 <p align = "center">
-<b>Figure 6. Visualization of Road Network Map in Chengdu & Xi'an. </b> 
+<b>Figure 7. Visualization of Road Network Map in Chengdu & Xi'an. </b> 
 </p>
 
 ## Related Resources
