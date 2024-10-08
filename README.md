@@ -1,4 +1,4 @@
-# Deep Learning for Travel Time Estimation (TTE) & Estimated Time of Arrival (ETA): A Survey
+# A Survey on Deep Learning for Travel Time Estimation (TTE) & Estimated Time of Arrival (ETA): Methods, Trends, Applications and Future Directions
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
