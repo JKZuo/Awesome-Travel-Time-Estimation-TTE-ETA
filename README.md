@@ -314,7 +314,7 @@
 * Baidu Map Smart Transportation & China Urban Transport Report: [[Baidu-Smart](https://jiaotong.baidu.com/)]
 
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_DL.png" width="600"/>
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_DL.png"/>
 </p>
 <p align = "center">
 <b>Figure 8. Milestone Models in the Field of Deep Learning (DL). </b> 
