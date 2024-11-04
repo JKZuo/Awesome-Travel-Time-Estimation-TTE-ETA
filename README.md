@@ -14,7 +14,7 @@
 - ② 综述撰写中，**arXiv可见将通知，整理不易，请勿🔶侵权©️~** 
 - ③ **Updating 持续更新中✅~**
   
-⭐ **本仓库始建于2024-9-27号**, 截止**2024-9-30号**，本仓库共整理了**49篇高质量论文**(涉及旅行时间估计、时空轨迹挖掘、时空图学习方法、智能交通与智慧城市等)+**20个交通+轨迹数据集**! ⭐
+⭐ **本仓库始建于2024-9-27号**, 截止**2024-11-5号**，本仓库共整理了**49篇高质量论文**(涉及旅行时间估计、时空轨迹挖掘、时空图学习方法、智能交通与智慧城市等)+**20个交通+轨迹数据集**! ⭐
   
 ## Table of Contents
 
@@ -58,7 +58,7 @@
 - **(4) Travel Time Estimation**: Infers the estimated time of arrival and plans routes while avoiding congestion for given origin-destination pairs. It is widely applied in navigation systems, route planning, ride-hailing services, and more.
 
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_.png" width="600"/>
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_ITS.png" width="600"/>
 </p>
 <p align = "center">
 <b>Figure 2. Relationship Between TTE and Other SpatioTemporal Tasks. </b> 
@@ -313,6 +313,12 @@
 * DiDi Travel Time Index (TTI): [[DIDI-TTI](https://github.com/didi/TrafficIndex)]
 * Baidu Map Smart Transportation & China Urban Transport Report: [[Baidu-Smart](https://jiaotong.baidu.com/)]
 
+<p align="center">
+<img align="middle" src="https://github.com/JKZuo/Awesome-Travel-Time-Estimation-TTE-ETA/blob/main/fig_DL.png" width="600"/>
+</p>
+<p align = "center">
+<b>Figure 8. Milestone Models in the Field of Deep Learning (DL). </b> 
+</p>
 
 # Updating~ 持续更新中! 
 
