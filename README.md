@@ -336,7 +336,6 @@ or
   volume={},
   number={},
   pages={1-15},
-  keywords={Trajectory;Roads;Estimation;Semantics;Accuracy;;Feature extraction;Data mining;Correlation;Computational modeling;Travel time estimation;graph neural network;global spatial dependence;local contextual information},
   doi={10.1109/TITS.2025.3624395}}
 
 ```
