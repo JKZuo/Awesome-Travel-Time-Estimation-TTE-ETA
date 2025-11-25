@@ -1,4 +1,4 @@
-# A Survey on Deep Learning for Travel Time Estimation: Methods, Trends, Applications and Future Directions
+# A Survey on Deep Learning for Travel Time Estimation: Methods, Trends, Applications, and Future Directions
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
@@ -320,8 +320,28 @@
 <b>Figure 8. Milestone Models in the Field of Deep Learning (DL). </b> 
 </p>
 
-# Updating~ 持续更新中! 
+## Cite
+If you feel that this work has been helpful for your research, please cite it as: 
 
+- J. Zuo, Y. Yao and Y. Zhang, "TriDGNet: Triple Feature Encoder-Based Dual Granularity Graph Learning Network for Enhanced Travel Time Estimation," in IEEE Transactions on Intelligent Transportation Systems, doi: https://doi.org/10.1109/TITS.2025.3624395.
+
+or
+
+```tex
+@ARTICLE{TriDGNet,
+  author={Zuo, Jiankai and Yao, Yuxiang and Zhang, Yaying},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={TriDGNet: Triple Feature Encoder-Based Dual Granularity Graph Learning Network for Enhanced Travel Time Estimation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Trajectory;Roads;Estimation;Semantics;Accuracy;;Feature extraction;Data mining;Correlation;Computational modeling;Travel time estimation;graph neural network;global spatial dependence;local contextual information},
+  doi={10.1109/TITS.2025.3624395}}
+
+```
+
+Keywords: Intelligent Transportation Systems; Travel Time Estimation; Graph Neural Network; Global Spatial Dependence; Local Contextual Information.
 
 
 
